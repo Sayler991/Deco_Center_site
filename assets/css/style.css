@@ -293,3 +293,6 @@ p+p{margin-top:.8rem}
 .rv.follow p{font-size:1.25rem}
 .rv.follow b{font-family:var(--serif,Georgia,serif);font-size:2.2rem;color:var(--gold,#CFAE5F);font-weight:500}
 .mitems:empty{display:none}
+.rating b{white-space:nowrap}
+.mimg{aspect-ratio:4/3}
+@media (max-width:900px){.mimg{aspect-ratio:4/3}}

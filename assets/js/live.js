@@ -29,7 +29,7 @@
       if (el.id === 'hero-title') { if (el.getAttribute('aria-label') !== v.replace(/\*/g, '')) { el.innerHTML = rich(v); split(el); } } else el.innerHTML = rich(v);
     });
     var b = d.business || {};
-    if (b.phone_intl) $$('a[href^="tel:"]').forEach(function (a) { a.setAttribute('href', 'tel:' + b.phone_intl); });
+    if (b.phone_intl) $$('a[href^="tel:"]:not([data-fixed])').forEach(function (a) { a.setAttribute('href', 'tel:' + b.phone_intl); });
     if (b.phone) $$('.ph').forEach(function (e) { e.textContent = b.phone; });
     if (b.maps_url) $$('a[href*="google.com/maps"]').forEach(function (a) { a.setAttribute('href', b.maps_url); });
     var os = $('#openstate');
