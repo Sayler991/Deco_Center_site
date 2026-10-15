@@ -1,0 +1,169 @@
+{
+ "version": 2,
+ "business": {
+  "name": "Deco Center",
+  "phone": "0551 71 12 82",
+  "phone_intl": "+213551711282",
+  "phone2": "043 27 89 28",
+  "email": "decocentertlemcen@gmail.com",
+  "address": "13 rue de la Paix, Tlemcen 13000",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=34.883757%2C-1.311387",
+  "instagram": "https://www.instagram.com/decocenter13/",
+  "facebook": "https://www.facebook.com/DecoCentre.Tlemcen/",
+  "open": true,
+  "closed_text": "Le showroom est momentanément fermé. Appelez-nous pour en savoir plus."
+ },
+ "hero": {
+  "kicker": "Meubles & décoration · Tlemcen",
+  "title": "Deco *Center*",
+  "tagline": "La planète du meuble, au 13 rue de la Paix : venez composer votre intérieur pièce par pièce, dans notre showroom."
+ },
+ "about": {
+  "title": "Votre intérieur, *pensé avec vous*",
+  "text": "Deco Center est un magasin de meubles et de décoration installé au 13 rue de la Paix, à Tlemcen. Sur Instagram, la maison se présente comme « la planète du meuble ».",
+  "text2": "Passez au showroom du samedi au jeudi, de 9h à 19h : nous vous conseillons sur place et préparons votre devis.",
+  "quote": "La planète du meuble."
+ },
+ "specialities": [
+  "Meubles",
+  "Salons",
+  "Chambres",
+  "Salles à manger",
+  "Décoration",
+  "Showroom",
+  "Tlemcen"
+ ],
+ "menu": {
+  "note": "Catalogue en cours de mise en ligne : demandez les modèles disponibles et les prix au showroom ou par téléphone.",
+  "currency": "DA",
+  "categories": [
+   {
+    "id": "salons",
+    "title": "Salons",
+    "desc": "Canapés, fauteuils et tables basses pour la pièce à vivre.",
+    "items": []
+   },
+   {
+    "id": "chambres",
+    "title": "Chambres",
+    "desc": "Lits, chevets, commodes et armoires.",
+    "items": []
+   },
+   {
+    "id": "repas",
+    "title": "Salles à manger & déco",
+    "desc": "Tables, chaises et objets de décoration pour finir la pièce.",
+    "items": []
+   }
+  ],
+  "source": "Catégories génériques à confirmer par le client : aucun catalogue public n'a pu être lu."
+ },
+ "hours": [
+  {
+   "day": "Samedi",
+   "open": "09:00",
+   "close": "19:00",
+   "open2": "",
+   "close2": ""
+  },
+  {
+   "day": "Dimanche",
+   "open": "09:00",
+   "close": "19:00",
+   "open2": "",
+   "close2": ""
+  },
+  {
+   "day": "Lundi",
+   "open": "09:00",
+   "close": "19:00",
+   "open2": "",
+   "close2": ""
+  },
+  {
+   "day": "Mardi",
+   "open": "09:00",
+   "close": "19:00",
+   "open2": "",
+   "close2": ""
+  },
+  {
+   "day": "Mercredi",
+   "open": "09:00",
+   "close": "19:00",
+   "open2": "",
+   "close2": ""
+  },
+  {
+   "day": "Jeudi",
+   "open": "09:00",
+   "close": "19:00",
+   "open2": "",
+   "close2": ""
+  },
+  {
+   "day": "Vendredi",
+   "open": "",
+   "close": "",
+   "open2": "",
+   "close2": "",
+   "closed": true
+  }
+ ],
+ "booking": {
+  "open": true,
+  "note": "Choisissez un jour et une heure pour visiter le showroom : nous vous rappelons pour confirmer. Vous pouvez aussi nous écrire pour un devis."
+ },
+ "reviews": [],
+ "rating": {
+  "value": "5,0",
+  "count": "1"
+ },
+ "stats": {
+  "ig_followers": "2 269",
+  "ig_posts": "1 220",
+  "fb_followers": "1 080"
+ },
+ "photos": {
+  "salon": {
+   "label": "Haut de page / salon",
+   "alt": "Salon lumineux avec canapé arrondi et tapis graphique (photo d’illustration)",
+   "src": ""
+  },
+  "chambre-classique": {
+   "label": "Chambre classique",
+   "alt": "Chambre de style classique, tête de lit capitonnée (photo d’illustration)",
+   "src": ""
+  },
+  "salle-a-manger": {
+   "label": "Salle à manger",
+   "alt": "Table en bois massif et chaises grises (photo d’illustration)",
+   "src": ""
+  },
+  "suite": {
+   "label": "Suite",
+   "alt": "Grande chambre avec coin salon (photo d’illustration)",
+   "src": ""
+  },
+  "chambre": {
+   "label": "Chambre",
+   "alt": "Chambre avec lustre et linge blanc (photo d’illustration)",
+   "src": ""
+  },
+  "salon-gris": {
+   "label": "Salon gris",
+   "alt": "Canapé gris et coussins (photo d’illustration)",
+   "src": ""
+  },
+  "fauteuil": {
+   "label": "Fauteuil",
+   "alt": "Fauteuil en velours vert et guéridon doré (photo d’illustration)",
+   "src": ""
+  },
+  "chambre-dressing": {
+   "label": "Chambre & dressing",
+   "alt": "Chambre avec dressing vitré (photo d’illustration)",
+   "src": ""
+  }
+ }
+}
